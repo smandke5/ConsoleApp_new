@@ -6,5 +6,11 @@ namespace ConsoleApp_new
 {
     class User
     {
+        public User()
+        { 
+        
+            // constructor added ..
+        }
+
     }
 }
